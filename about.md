@@ -1,5 +1,3 @@
 # Hej!
 
-Here's some information about me!
-
-[https://www.kth.se/profile/anubhabg/](https://www.kth.se/profile/anubhabg/)
+Here's some information about [https://www.kth.se/profile/anubhabg/](me!)
